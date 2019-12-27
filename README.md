@@ -1,2 +1,1 @@
-# NEW-PROJECT
-new project
+# INGSuit
